@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your_username/movify">
+  <a href="https://github.com/codingmaniac227/movify">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A modern web application to discover, search, and explore movies.
     <br />
-    <a href="https://github.com/your_username/movify"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codingmaniac227/movify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="movify-app-demo.netlify.app">View Demo</a>
+    <a href="https://movify-app-demo.netlify.app">View Demo</a>
     ·
-    <a href="https://github.com/your_username/movify/issues">Report Bug</a>
+    <a href="https://github.com/codingmaniac227/movify/issues">Report Bug</a>
     ·
-    <a href="https://github.com/your_username/movify/issues">Request Feature</a>
+    <a href="https://github.com/codingmaniac227/movify/issues">Request Feature</a>
   </p>
 </div>
 
@@ -53,7 +53,7 @@
 
 ## About The Project
 
-[![Movify Screenshot][product-screenshot]](src/assets/movify-screenshot.png)
+[![Movify Screenshot][product-screenshot]]
 
 Movify is a movie discovery application powered by the TMDB API and enhanced with Appwrite for analytics.  
 
@@ -85,33 +85,33 @@ This project demonstrates both frontend skills (React, Tailwind) and backend int
 
 ### Prerequisites
 Ensure you have **npm** installed:
-\`\`\`sh
+```sh
 npm install npm@latest -g
-\`\`\`
+```
 
 ### Installation
 
 1. Obtain a free API key from [TMDB](https://www.themoviedb.org/).  
 2. Set up a free [Appwrite](https://appwrite.io/) project with a Database and Collection for search analytics.  
 3. Clone the repository:
-   \`\`\`sh
-   git clone https://github.com/your_username/movify.git
-   \`\`\`
+   ```sh
+   git clone https://github.com/codingmaniac227/movify.git
+   ```
 4. Install dependencies:
-   \`\`\`sh
+   ```sh
    npm install
-   \`\`\`
-5. Create a \`.env\` file and add the following environment variables:
-   \`\`\`env
+   ```
+5. Create a `.env` file and add the following environment variables:
+   ```env
    VITE_TMDB_API_KEY=your_tmdb_api_key
    VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
    VITE_APPWRITE_DATABASE_ID=your_database_id
    VITE_APPWRITE_COLLECTION_ID=your_collection_id
-   \`\`\`
+   ```
 6. Run the development server:
-   \`\`\`sh
+   ```sh
    npm run dev
-   \`\`\`
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +123,7 @@ npm install npm@latest -g
 - Browse trending movies based on search frequency stored in Appwrite.  
 - Explore details such as rating, release year, and language for each movie.  
 
-_For screenshots and live demo, please refer to the [Demo](movify-app-demo.netlify.app)._
+_For screenshots and live demo, please refer to the [Demo](https://movify-app-demo.netlify.app)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +148,9 @@ If you have suggestions, please fork the repository and submit a pull request, o
 
 Steps:
 1. Fork the project  
-2. Create your feature branch (\`git checkout -b feature/AmazingFeature\`)  
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)  
-4. Push to your branch (\`git push origin feature/AmazingFeature\`)  
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)  
+4. Push to your branch (`git push origin feature/AmazingFeature`)  
 5. Open a Pull Request  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,7 +159,7 @@ Steps:
 
 ## License
 
-Distributed under the MIT License. See \`LICENSE.txt\` for details.  
+Distributed under the MIT License. See `LICENSE.txt` for details.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +169,7 @@ Distributed under the MIT License. See \`LICENSE.txt\` for details.
 
 Marquise Davis – [@FullStackDemon](https://instagram.com/FullStackDemon) – codingmaniac227@gmail.com  
 
-Project Link: [https://github.com/your_username/movify](https://github.com/your_username/movify)
+Project Link: [https://github.com/codingmaniac227/movify](https://github.com/codingmaniac227/movify)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,16 +188,16 @@ Project Link: [https://github.com/your_username/movify](https://github.com/your_
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/your_username/movify.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/movify/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your_username/movify.svg?style=for-the-badge
-[forks-url]: https://github.com/your_username/movify/network/members
-[stars-shield]: https://img.shields.io/github/stars/your_username/movify.svg?style=for-the-badge
-[stars-url]: https://github.com/your_username/movify/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your_username/movify.svg?style=for-the-badge
-[issues-url]: https://github.com/your_username/movify/issues
-[license-shield]: https://img.shields.io/github/license/your_username/movify.svg?style=for-the-badge
-[license-url]: https://github.com/your_username/movify/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codingmaniac227/movify.svg?style=for-the-badge
+[contributors-url]: https://github.com/codingmaniac227/movify/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codingmaniac227/movify.svg?style=for-the-badge
+[forks-url]: https://github.com/codingmaniac227/movify/network/members
+[stars-shield]: https://img.shields.io/github/stars/codingmaniac227/movify.svg?style=for-the-badge
+[stars-url]: https://github.com/codingmaniac227/movify/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codingmaniac227/movify.svg?style=for-the-badge
+[issues-url]: https://github.com/codingmaniac227/movify/issues
+[license-shield]: https://img.shields.io/github/license/codingmaniac227/movify.svg?style=for-the-badge
+[license-url]: https://github.com/codingmaniac227/movify/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marquise-davis/
 [product-screenshot]: src/assets/movify-screenshot.png
