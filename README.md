@@ -53,7 +53,7 @@
 
 ## About The Project
 
-[![Movify Screenshot][product-screenshot]](https://example.com)
+[![Movify Screenshot][product-screenshot]](src/assets/movify-screenshot.png)
 
 Movify is a movie discovery application powered by the TMDB API and enhanced with Appwrite for analytics.  
 
@@ -123,7 +123,7 @@ npm install npm@latest -g
 - Browse trending movies based on search frequency stored in Appwrite.  
 - Explore details such as rating, release year, and language for each movie.  
 
-_For screenshots and live demo, please refer to the [Demo](https://github.com/your_username/movify)._
+_For screenshots and live demo, please refer to the [Demo](movify-app-demo.netlify.app)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See \`LICENSE.txt\` for details.
 
 ## Contact
 
-Your Name – [@your_twitter](https://twitter.com/your_username) – your_email@example.com  
+Marquise Davis – [@FullStackDemon](https://instagram.com/FullStackDemon) – codingmaniac227@gmail.com  
 
 Project Link: [https://github.com/your_username/movify](https://github.com/your_username/movify)
 
@@ -199,8 +199,8 @@ Project Link: [https://github.com/your_username/movify](https://github.com/your_
 [license-shield]: https://img.shields.io/github/license/your_username/movify.svg?style=for-the-badge
 [license-url]: https://github.com/your_username/movify/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your_linkedin
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/marquise-davis/
+[product-screenshot]: src/assets/movify-screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vite.js]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E
