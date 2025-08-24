@@ -23,7 +23,7 @@
     <a href="https://github.com/your_username/movify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/movify">View Demo</a>
+    <a href="movify-app-demo.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/your_username/movify/issues">Report Bug</a>
     ·
